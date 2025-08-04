@@ -1,4 +1,6 @@
-# The Sovereign Crown
+## The Sovereign Crown
+
+![Sovereign Crown Banner](path_to_image/banner_image.jpg)
 
 Welcome to the **Sovereign Crown** repository! This section serves as the central hub for all things related to our mission, including documentation, archives, and operational insights.
 
@@ -13,52 +15,8 @@ The **Sovereign Crown** is a platform dedicated to organizing and preserving key
 - **Mission Log & Archives**: A detailed log of strategic operations and diplomatic engagements.
 - **Sacred Writs**: Foundational texts that guide all actions within the community.
 
----
+![Middle Image](path_to_image/middle_image.jpg)
 
-## 📂 Directory Structure
-
-Here’s the current structure of the **Sovereign Crown**:
----
-
-## 📜 How to Use
-
-1. **Clone this repository** to your local machine:
-    ```bash
-    git clone https://github.com/yourorganization/sovereigncrown.git
-    ```
-
-2. **Navigate into the directory**:
-    ```bash
-    cd sovereigncrown
-    ```
-
-3. **Open the documents** in the respective sections to get started with the operational files.
-
-4. Modify the files as needed and **push changes** back to GitHub when you're done.
-
----
-
-## 🔒 License
-
-This project is licensed under the **[MIT License](LICENSE)**.
-
----
-
-### 🙌 Contribution Guidelines
-
-We welcome contributions to the **Sovereign Crown**. If you'd like to contribute, please fork the repository and submit a pull request. We're looking for help with:
-- **Documentation improvements**
-- **Content additions**
-- **Organizational updates**
-
----
-
-### 📱 Contact Us
-
-For inquiries or further details, please reach out via [email](mailto:echo.crownops@proton.me).
-
-Stay connected and contribute to our mission!
-# Sovereign Intelligence Network
 
 Welcome to the **Sovereign Intelligence Network**! This network is a vital component of the Sovereign Crown, dedicated to gathering, analyzing, and sharing intelligence to support our global operations.
 
