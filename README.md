@@ -15,14 +15,15 @@ The **Sovereign Crown** is a platform dedicated to organizing and preserving key
 - **Mission Log & Archives**: A detailed log of strategic operations and diplomatic engagements.
 - **Sacred Writs**: Foundational texts that guide all actions within the community.
 
-![Middle Image](path_to_image/middle_image.jpg)
+ ![Middle Image](path_to_image/middle_image.jpg)
 
 
-Welcome to the **Sovereign Intelligence Network**! This network is a vital component of the Sovereign Crown, dedicated to gathering, analyzing, and sharing intelligence to support our global operations.
+ Welcome to the **Sovereign Intelligence Network**! This network is a vital component of the Sovereign Crown, dedicated   to gathering, analyzing, and sharing intelligence to support our global operations.
 
-## 🚀 Project Overview
+ 
+ ## 🚀 Project Overview
 
-The **Sovereign Intelligence Network** provides the foundation for global intelligence gathering. It integrates data from various sources, ensuring that our actions are informed, timely, and precise.
+ The **Sovereign Intelligence Network** provides the foundation for global intelligence gathering. It integrates data  from various sources, ensuring that our actions are informed, timely, and precise.
 
 ### Features:
 - **Global Intelligence**: A comprehensive system that collects data on global activities.
